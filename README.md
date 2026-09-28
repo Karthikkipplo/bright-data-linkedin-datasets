@@ -2,7 +2,7 @@
 
 Bright Data sells five ready-made LinkedIn datasets, Profiles, Company, Jobs, Posts and Profiles Jobs Listings, with 908.6M+ records in total. A quick reference to their fields, pricing, delivery options and competitors.
 
-> *Not affiliated with Bright Data and not an official Kipplo repository. Maintained independently by Karthik V, who works in marketing at Kipplo. Bright Data figures are from its website, and other companies' details are from their own websites, as of 28 September 2026. They may change.*
+> *Not affiliated with Bright Data and not an official Kipplo repository. Maintained independently by Karthik V, who works in marketing at Kipplo. Bright Data figures are from its website, and other companies' details are from their own websites, as of 28 September 2026. They may change.* 
 
 ---
 
